@@ -1,8 +1,8 @@
 # Christmas traffic: Where to avoid on the roads and rail
 
-![](https://ichef.bbci.co.uk/news/624/cpsprodpb/A033/production/_104911014_datapic-traffic_birmingham-spic6-nc.png)
+![](https://raw.githubusercontent.com/BBC-Data-Unit/christmas-traffic-2018/master/bbcbreakfasttweet.png)
 
-In December 2018 we [reported](https://www.bbc.co.uk/news/uk-england-46650112) on which areas to avoid and what times traffic would be busiest over the Christmas period.
+In December 2018 we [reported](https://www.bbc.co.uk/news/uk-england-46650112) on which areas to avoid and what times traffic would be busiest over the Christmas period. The story complemented other reporting across the corporation, as shown in [the tweet above](https://twitter.com/BBCBreakfast/status/1074576968488796161).
 
 ## Quotes and interviews
 
@@ -13,6 +13,8 @@ In December 2018 we [reported](https://www.bbc.co.uk/news/uk-england-46650112) o
 * Spokesperson, Network Rail
 
 ## Visualisation
+
+![](https://ichef.bbci.co.uk/news/624/cpsprodpb/A033/production/_104911014_datapic-traffic_birmingham-spic6-nc.png)
 
 * Infographic: Worst times to travel
 * Table: Roads expected to be busy for the Christmas getaway
