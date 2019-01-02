@@ -4,6 +4,10 @@
 
 In December 2018 we [reported](https://www.bbc.co.uk/news/uk-england-46650112) on which areas to avoid and what times traffic would be busiest over the Christmas period. The story complemented other reporting across the corporation, as shown in [the tweet above](https://twitter.com/BBCBreakfast/status/1074576968488796161).
 
+## Get the data
+
+* XLS: [In numbers: expected Christmas getaway trips by day, plus worst delays; In full: roads expected to be worst affected](https://github.com/BBC-Data-Unit/christmas-traffic-2018/blob/master/2018%20-%20RAC%20INRIX%20Christmas%20travel.xlsx)
+
 ## Quotes and interviews
 
 * Spokesperson, Inrix
