@@ -4,10 +4,6 @@
 
 In December 2018 we [reported](https://www.bbc.co.uk/news/uk-england-46650112) on which areas to avoid and what times traffic would be busiest over the Christmas period.
 
-## Get the data 
-
-TBC
-
 ## Quotes and interviews
 
 * Spokesperson, Inrix
@@ -24,6 +20,8 @@ TBC
 
 ## Related repos
 
-* In 2016 we also [reported on the best Christmas transport to avoid - and when](https://github.com/BBC-Data-Unit/Christmas-travel).
+* In 2016 we first [reported on the best Christmas transport to avoid - and when](https://github.com/BBC-Data-Unit/Christmas-travel).
+* This was [repeated last year](https://github.com/BBC-Data-Unit/christmas-traffic-2017)
 * In Easter 2018 we [reported on expected traffic disruption](https://github.com/BBC-Data-Unit/easter-travel)
+* [All delays-related repos can be found here](https://github.com/search?q=topic%3Adelays+org%3ABBC-Data-Unit&type=Repositories)
 * [All transport-related repos can be found here](https://github.com/search?q=topic%3Atransport+org%3ABBC-Data-Unit&type=Repositories)
